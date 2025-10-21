@@ -26,7 +26,7 @@ npm run dev
 ```
 # 🇬🇧
 
-#  AI CHAT CLONE
+#  To Do List
 
 > A React + Vite application that allows you to save your goals — you can add, delete, and mark them as completed.
 > All tasks are saved in localStorage, so they won't disappear after refreshing or closing the browser.
