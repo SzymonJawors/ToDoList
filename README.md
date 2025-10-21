@@ -9,7 +9,7 @@
 
 ### 1. Sklonuj repozytorium
 ```bash
-git clone https://github.com/uzytkownik/ToDoList.git
+git clone https://github.com/SzymonJawors/ToDoList.git
 cd ToDoList
 ```
 ### 2. Zainstaluj
