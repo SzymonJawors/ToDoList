@@ -1,3 +1,6 @@
+# 🇵🇱
+
+
 # TO DO LIST
 
   
@@ -21,3 +24,31 @@ npm install
 ```bash
 npm run dev
 ```
+# 🇬🇧
+
+#  AI CHAT CLONE
+
+> A React + Vite application that allows you to save your goals — you can add, delete, and mark them as completed.
+> All tasks are saved in localStorage, so they won't disappear after refreshing or closing the browser.
+
+---
+
+##  Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/SzymonJawors/ToDoList.git
+cd ToDoList
+```
+
+### 2. Install
+```bash
+npm install
+```
+
+### 3. Run
+```bash
+npm run dev
+```
+
+
